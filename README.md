@@ -9,8 +9,8 @@ Requirements
 I2C Connections
 -----------
 - Use I2C1
-- Slave address 0x0C / 0x0D
-- CAD---GND
+- CAD---GND Slave address 0x0C
+- CAD---VDD Slave address 0x0D
 - RSTN---VID
 
 File Location
